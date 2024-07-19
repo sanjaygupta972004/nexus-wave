@@ -24,7 +24,7 @@ export default function Navbar() {
               <a className =" text-white text-opacity-55 hover:text-opacity-90 hover:underline underline-offset-6"href="#">Features</a>
               <a className =" text-white text-opacity-55 hover:text-opacity-90 hover:underline underline-offset-6"href="#">Help</a>
               <a className =" text-white text-opacity-55 hover:text-opacity-90 hover:underline underline-offset-6"href="#">Customers</a>
-              <button className=" bg-white text-gray-700 rounded-md p-1 hover:bg-opacity-90  ">Get for free</button>
+              <button className=" bg-white text-gray-700 rounded-md p-[1px] hover:bg-opacity-90 w-[100px] h-9 ">Get for free</button>
             </nav>
         </div>
       </div>
