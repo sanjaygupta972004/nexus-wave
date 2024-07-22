@@ -34,7 +34,7 @@ export default function Hero() {
               Celebrate the joy of accomplishment with an app designed to track your progress,
                motivate your efforts, and celebrate your successes.
            </p>
-           <button className=" bg-white text-gray-700 rounded-lg p-[1px] hover:bg-opacity-90 w-[130px] h-14 mb-12 text-[20px]">
+           <button className=" bg-white text-gray-700 rounded-lg p-[1px] hover:bg-opacity-90 w-[130px] h-12 mb-12 text-[20px]">
                 Get for free
            </button>
         </div>
